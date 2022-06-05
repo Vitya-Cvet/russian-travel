@@ -3,5 +3,5 @@
 с использованием контрольных точек 1280px,1023px,800px,575px.
 Работа сделана с использованием __flex__ и __grid__ свойств.
 На данной странице вы можете познакомится с красивейшими местами России, и прочитать о них. Все ссылки на странице ведет на позновательный контент.
-Ссылка на опубликованный проект [https://vitya-cvet.github.io/yet-another-project/]
-Как и в прошлых работах все сделано по[БЭМ](https://ru.bem.info/methodology/) [Nested](https://ru.bem.info/methodology/filestructure/#nested). 
+Ссылка на опубликованный проект [https://vitya-cvet.github.io/russian-travel/]
+Как и в прошлых работах все сделано по [БЭМ](https://ru.bem.info/methodology/) [Nested](https://ru.bem.info/methodology/filestructure/#nested). 
