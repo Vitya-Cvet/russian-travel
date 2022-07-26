@@ -6,21 +6,21 @@
     grid-gap: 48px 40px;
 }
 
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 1024px) {
     .places__item {
         grid-gap: 48px 32px;
     }
 
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 768px) {
     .places__item {
         grid-gap: 48px 28px;
         grid-template-columns: 340px 1fr;
     }
 }
 
-@media screen and (max-width: 575px) {
+@media screen and (max-width: 320px) {
     .places__item {
         grid-template-columns: 320px;
         grid-template-rows: repeat(4, auto);

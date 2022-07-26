@@ -8,19 +8,19 @@
     text-align: center;
 }
 
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 1024px) {
     .lead__subtitle {
         margin: 32px 144px 0;
     }
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 768px) {
     .lead__subtitle {
         margin: 32px 64px 0;
     }
 }
 
-@media screen and (max-width: 575px) {
+@media screen and (max-width: 320px) {
     .lead__subtitle {
         margin: 16px 16px 0;
         font-size: 16px;

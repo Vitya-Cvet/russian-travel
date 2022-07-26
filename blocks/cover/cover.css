@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 1024px) {
     .cover {
         max-width: 1024px;
         margin: 92px 0;
@@ -13,14 +13,14 @@
 
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 768px) {
     .cover {
         margin: 90px 0 88px;
     }
 
 }
 
-@media screen and (max-width: 575px) {
+@media screen and (max-width: 320px) {
     .cover {
         margin: 66px 0 64px;
     }

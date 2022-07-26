@@ -4,7 +4,7 @@
     list-style-type: none;
 }
 
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 1024px) {
     .places {
         max-width: 928px;
         margin: 0 48px;
@@ -12,14 +12,14 @@
 
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 768px) {
     .places {
         max-width: 720px;
         margin: 0 24px;
     }
 }
 
-@media screen and (max-width: 575px) {
+@media screen and (max-width: 320px) {
     .places {
         margin: 64px 0 0;
     }
